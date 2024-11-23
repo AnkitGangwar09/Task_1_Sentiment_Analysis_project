@@ -1,3 +1,11 @@
+NAME: Ankit Gangwar
+COMAPANY NAME: CODETECH IT SOLUTIONS
+ID: CT12DS2452
+DOMAIN: ARTIFICAL INTELLIGENCE
+DURATION: September to November 2024
+MENTOR: Neela Santosh Kumar
+
+
 # Sentiment_Analysis_project
 Sentiment analysis system is a project from field of NLP.
 It is a machine learning and natural language processing (NLP) endeavor that focuses on predicting the sentiment of tweets related to US airlines. The dataset consists of over 14,000 tweets, and the goal is to classify each tweet as either positive, negative, or neutral based on its sentiment.
